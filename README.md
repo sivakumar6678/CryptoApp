@@ -1,6 +1,6 @@
 # Sample Website
 
-This is a sample website built with HTML, CSS, and JavaScript.
+This is a sample website built with HTML, CSS, and JavaScript, React.
 
 ## Description
 
@@ -13,9 +13,6 @@ This website showcases various features and components styled using CSS. It incl
 - Card components to display content
 - Sticky footer
 
-## Screenshots
-
-[Add screenshots or demo links here if available]
 
 ## Installation
 
